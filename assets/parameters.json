@@ -9,6 +9,6 @@
   },
   "TEMPLATE_TARGET": {
     "type": "input",
-    "message": "Enter the target element for template composition:"
+    "message": "Enter the xpath target for template composition (example: `//div[@id='my-id']`):"
   }
 }
