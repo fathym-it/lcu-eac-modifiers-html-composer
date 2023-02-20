@@ -1,4 +1,8 @@
 {
+  "MODIFIER_NAME": {
+    "type": "input",
+    "message": "Enter a name for this modifier:"
+  },
   "TARGET_PATH_REGEX": {
     "type": "input",
     "message": "Enter the file extensions to target (like '.*.(md|mdx).*'):"
