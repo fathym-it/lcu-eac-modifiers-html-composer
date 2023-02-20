@@ -1,7 +1,7 @@
 {
   "Modifiers": {
-    "$": {
-      "Details": " { \"Compositions\": [{ \"Template\": \"{{TEMPLATE_PATH}}\", \"Target\": \"{{TEMPLATE_TARGET}}\" }] }",
+    "$1": {
+      "Details": " { \"Compositions\": [{ \"TemplatePath\": \"{{TEMPLATE_PATH}}\", \"TargetSelector\": \"{{TEMPLATE_TARGET}}\" }] }",
       "Enabled": true,
       "Name": "HTML Composer",
       "PathFilterRegex": "({{TARGET_PATH_REGEX}})",
