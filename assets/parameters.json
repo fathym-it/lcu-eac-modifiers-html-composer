@@ -7,7 +7,7 @@
     "type": "input",
     "message": "Enter the path to the template (start with './' to target app root, '/' to target project root, or a full URL):"
   },
-  "TEMPLATE_TARGET": {
+  "TARGET_SELECTOR": {
     "type": "input",
     "message": "Enter the xpath target for template composition (example: `//div[@id='my-id']`):"
   }
