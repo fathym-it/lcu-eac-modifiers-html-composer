@@ -1,0 +1,9 @@
+{
+  "Package": {
+    "Name": "Create New HTML Composer DFS Modifier",
+    "Description": "An LCU for creating a new HTML Composer DFS Modifier record.",
+    "Image": "https://www.fathym.com/assets/images/logo.png",
+    "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
+    "SkipProject": true
+  }
+}

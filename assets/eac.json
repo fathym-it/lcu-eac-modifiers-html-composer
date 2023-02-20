@@ -1,0 +1,12 @@
+{
+  "Modifiers": {
+    "$": {
+      "Details": " { \"Compositions\": [{ \"Template\": \"{{TEMPLATE_PATH}}\", \"Target\": \"{{TEMPLATE_TARGET}}\" }] }",
+      "Enabled": true,
+      "Name": "HTML Composer",
+      "PathFilterRegex": "({{TARGET_PATH_REGEX}})",
+      "Priority": 12000,
+      "Type": "LCU.Runtime.Applications.Modifiers.HTMLComposerDFSModifierManager, LCU.Runtime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}

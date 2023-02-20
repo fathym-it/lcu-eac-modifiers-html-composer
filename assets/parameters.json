@@ -1,0 +1,14 @@
+{
+  "TARGET_PATH_REGEX": {
+    "type": "input",
+    "message": "Enter the file extensions to target (like '.*.(md|mdx).*'):"
+  },
+  "TEMPLATE_PATH": {
+    "type": "input",
+    "message": "Enter the path to the template (start with './' to target app root, '/' to target project root, or a full URL):"
+  },
+  "TEMPLATE_TARGET": {
+    "type": "input",
+    "message": "Enter the target element for template composition:"
+  }
+}
