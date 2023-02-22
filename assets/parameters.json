@@ -3,9 +3,13 @@
     "type": "input",
     "message": "Enter a name for this modifier:"
   },
+  "MODIFIER_LOOKUP": {
+    "type": "input",
+    "message": "Enter a lookup for this modifier:"
+  },
   "TARGET_PATH_REGEX": {
     "type": "input",
-    "message": "Enter the file extensions to target (like '.*.(md|mdx).*'):"
+    "message": "Enter the path regex to target (like '.*.(md|mdx).*'):"
   },
   "TEMPLATE_PATH": {
     "type": "input",

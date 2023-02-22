@@ -1,6 +1,6 @@
 {
   "Modifiers": {
-    "$1": {
+    "{{MODIFIER_LOOKUP}}": {
       "Details": "{ \"TemplatePath\": \"{{TEMPLATE_PATH}}\", \"Compositions\": [{ \"Source\": \"%DFS%\", \"TargetSelector\": \"{{TARGET_SELECTOR}}\" }] }",
       "Enabled": true,
       "Name": "{{MODIFIER_NAME}}",
